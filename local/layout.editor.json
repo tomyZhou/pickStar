@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 459.984375,
+                "height": 460,
                 "type": "panel",
-                "width": 307.40625
+                "width": 307
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 459.015625,
+                "height": 459,
                 "type": "panel",
-                "width": 307.40625
+                "width": 307
               }
             ],
             "height": 922,
             "type": "dock-v",
-            "width": 307.40625
+            "width": 307
           },
           {
             "children": [
@@ -47,7 +47,7 @@
                     ],
                     "height": 653,
                     "type": "panel",
-                    "width": 729.828125
+                    "width": 730.640625
                   },
                   {
                     "active": 0,
@@ -56,12 +56,12 @@
                     ],
                     "height": 653,
                     "type": "panel",
-                    "width": 398.625
+                    "width": 398.34375
                   }
                 ],
                 "height": 653,
                 "type": "dock-h",
-                "width": 1131.46875
+                "width": 1132
               },
               {
                 "active": 0,
@@ -72,12 +72,12 @@
                 ],
                 "height": 266,
                 "type": "panel",
-                "width": 1131.46875
+                "width": 1132
               }
             ],
             "height": 922,
             "type": "dock-v",
-            "width": 1131.46875
+            "width": 1132
           },
           {
             "active": 0,
@@ -87,7 +87,7 @@
             ],
             "height": 922,
             "type": "panel",
-            "width": 459.125
+            "width": 459
           }
         ],
         "type": "dock-h"
@@ -103,7 +103,9 @@
         "inspector",
         "cocos-services"
       ]
-    }
+    },
+    "window-1678970037275": {},
+    "worker": {}
   },
   "panels": {
     "preferences": {
@@ -117,10 +119,17 @@
       "y": 240,
       "width": 600,
       "height": 565
+    },
+    "builder": {
+      "x": 702,
+      "y": 140,
+      "width": 516,
+      "height": 739
     }
   },
   "panelLabelWidth": {
     "preferences": null,
-    "inspector": null
+    "inspector": null,
+    "builder": null
   }
 }
